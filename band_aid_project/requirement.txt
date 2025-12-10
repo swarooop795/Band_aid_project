@@ -1,0 +1,11 @@
+opencv-python==4.8.1.78
+numpy==1.26.4
+
+
+📌 Why only these two ?;
+
+| Library                     |            Purpose or Usecase                                   |
+| --------------------------  | --------------------------------------------------------------- |
+| **opencv-python(library)**  | Loading images, template matching, blending, displaying windows |
+| **numpy(library)**          | Handling arrays & alpha blending                                |
+
