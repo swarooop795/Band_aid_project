@@ -9,4 +9,5 @@ After the wound is found, I load a transparent PNG band-aid so its alpha channel
 Overall, this project demonstrates a simple but effective way to automate wound detection and apply a realistic digital band-aid using classical image processing techniques without needing complex or heavy deep-learning models.
 
 How to Run ?
+
 Solution: Right click on project folder -> Click on open integrated terminal -> Type the command python apply_band_aid.py 
